@@ -1,0 +1,39 @@
+# Secrets and local env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+client_secret*.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+.npm/
+.next/
+dist/
+
+# Caches / OS
+.cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# Private data (never commit student or client data)
+data/private/
+datasets/private/
+*.sqlite
+*.db
