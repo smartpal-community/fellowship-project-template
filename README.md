@@ -1,6 +1,6 @@
 # [Project Name]
 
-Short description of what this educational / research tool does.
+Short description of this educational / research artifact.
 
 > This project was developed by [Fellow Name] as an independent research project exploring AI in education. It is an open-source tool and is not part of SmartPAL's commercial production platform.
 
@@ -23,8 +23,8 @@ Describe example inputs and outputs.
 
 ## License
 
-MIT. Copyright (c) 2026 [Fellow's Full Name]. See [`LICENSE`](LICENSE).
+MIT (or Apache-2.0 / BSD for code; CC BY 4.0 / CC0 for non-code). Copyright (c) 2026 [Fellow's Full Name]. See [`LICENSE`](LICENSE).
 
 ## Fellowship context
 
-Developed during the SmartPAL AI Fellowship. The fellow retains copyright. Hosting under [`smartpal-community`](https://github.com/smartpal-community) (or a personal account) does not transfer ownership to SmartPAL AI Inc.
+Developed during the **SmartPAL Fellowship** as an independent educational case study. The fellow retains copyright. Hosting under [`smartpal-community`](https://github.com/smartpal-community) (full project or a landing page that links here) does not transfer ownership to SmartPAL AI Inc.
